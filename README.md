@@ -1,6 +1,6 @@
 # atc-marketplace
 
-> NFT-/Asset-Marktplatz - primaer fuer Shivamon-Assets und Oekosystem-Tokens.
+> NFT-/Asset-Marktplatz - primaer fuer Genesis-Chronicles-Assets und Oekosystem-Tokens.
 
 **Prioritaet:** P2 (Repository-Landkarte AD-024) | **Chain-ID:** 658467 (AD-004) | **Org:** [A-TownChain-Okosystems](https://github.com/A-TownChain-Okosystems)
 
@@ -18,7 +18,7 @@
 atc-marketplace (NFT/Asset-Marktplatz)
     +-- listings/ - auctions/ - offers/
     +-- escrow/ (via atc-contracts)
-    +-- Integration: shivamon-NFTs (ATC-9000) - atc-wallet
+    +-- Integration: Genesis-Chronicles-NFTs (ATC-9000) - atc-wallet
 ```
 
 ## Status (AD-020-Rebuild-Aera)
