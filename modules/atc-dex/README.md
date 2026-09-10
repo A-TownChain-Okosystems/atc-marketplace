@@ -33,4 +33,4 @@ atc-dex/
 - [`A-TownChain-Okosystems/atc-assets`](https://github.com/A-TownChain-Okosystems/a-townchain-os/tree/main/src/modules/atc-assets)
 
 ## Copyright
-Copyright © Michael Wroblewski / A-TownChain-Okosystems. All Rights Reserved.
+Copyright © Michael Wroblewski / A-TownChain-Okosystems. Apache-2.0 lizenziert — siehe LICENSE
