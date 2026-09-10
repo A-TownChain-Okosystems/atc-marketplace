@@ -10,7 +10,7 @@
     "test": "jest"
   },
   "dependencies": {
-    "react": "^18.2", "ethers": "^6", "typescript": "^7"
+    "react": "^19.2", "ethers": "^6", "typescript": "^7"
   },
   "devDependencies": {
     "@types/node": "^20",
